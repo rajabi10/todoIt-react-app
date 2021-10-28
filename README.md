@@ -1,8 +1,10 @@
 # todoIt-react-app
 todoIt is a app that you organize your plan.
-in this program we use react js, node js, express ,REST, api, UX/UI trends.
+The user can use the planner (month / week / day) to add, edit or delete events.
+
+The application was created with create-react-app, using styled-components for the styling and the animations. 
+The technologies used include: HTML, CSS, JavaScript, React, Node, Express, RESTful API, MongoDB.
 you can enjoy news in main page.
-you can add, delete and edit you todo.
 you have a nice design month, week and day in this app that called Neumorphism design.
 ![Picture1](https://user-images.githubusercontent.com/84572283/139297356-80e455a0-5f64-428f-8f1f-7bb8787f4b42.png)
 ![Picture2](https://user-images.githubusercontent.com/84572283/139297378-0d0e1686-2d54-487d-834b-86b044a08cc3.png)
